@@ -843,8 +843,9 @@ python example_usage.py
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-<sub>Made by Haoze Zheng. 2026 VoiceDataExplorer.</sub>
+<sub>Made by Haoze Zheng. 2026 LayeredRetriever.</sub>
 
 </div>
+
 
 
