@@ -829,22 +829,22 @@ python example_usage.py
 
 ---
 
-## 📄 许可证
+## 👤 作者 (Author)
 
-MIT License
+**Haoze Zheng**
 
----
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
 
 ---
 
 <div align="center">
 
-**⭐ 如果这个项目对你有帮助，请给个 Star！⭐**
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-Made with ❤️ by LayeredRetriever Team
+<sub>Made by Haoze Zheng. 2026 VoiceDataExplorer.</sub>
 
 </div>
+
+
